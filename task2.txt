@@ -1,0 +1,5 @@
+task2 completed where I learn how to do commits.
+
+git add .
+git commit -m "task done"
+git status

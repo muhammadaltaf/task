@@ -1,0 +1,2 @@
+task3 completed where i learn how to see logs of commits history.
+git log
